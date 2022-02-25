@@ -1,0 +1,5 @@
+/home/chanlan/.local/share/JetBrains/Toolbox/apps/CLion/ch-1/221.4501.161/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/chanlan/.local/share/JetBrains/Toolbox/apps/CLion/ch-1/221.4501.161/bin/ninja/linux/ninja -G Ninja -S /home/chanlan/CLionProjects/mario -B /home/chanlan/CLionProjects/mario/cmake-build-debug
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chanlan/CLionProjects/mario/cmake-build-debug
